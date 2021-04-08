@@ -1,4 +1,4 @@
-test jenkins3
+test jenkins4
 
 # Building Java Projects with Maven
 This guide walks you through using Maven to build a simple Java project.
